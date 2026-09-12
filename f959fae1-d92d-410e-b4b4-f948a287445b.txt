@@ -1,0 +1,14 @@
+Node ID: f959fae1-d92d-410e-b4b4-f948a287445b
+[Node f959fae1-d92d-410e-b4b4-f948a287445b] Server listening on 127.0.0.1:5002
+[Thread-1] Connected by ('127.0.0.1', 49365)
+[Node f959fae1-d92d-410e-b4b4-f948a287445b] Connected to next node 127.0.0.1:5003
+Sent: uuid=f959fae1-d92d-410e-b4b4-f948a287445b, flag=0
+Received: uuid=15355a42-56f4-49d9-bf68-96001b128a1f, flag=0, less, 0
+Ignored: uuid=15355a42-56f4-49d9-bf68-96001b128a1f, flag=0
+Received: uuid=6d649eb5-e064-4a45-ac69-dfe7135b0b94, flag=0, less, 0
+Ignored: uuid=6d649eb5-e064-4a45-ac69-dfe7135b0b94, flag=0
+Received: uuid=f959fae1-d92d-410e-b4b4-f948a287445b, flag=0, same, 0
+Leader is decided to f959fae1-d92d-410e-b4b4-f948a287445b.
+Sent: uuid=f959fae1-d92d-410e-b4b4-f948a287445b, flag=1
+Received: uuid=f959fae1-d92d-410e-b4b4-f948a287445b, flag=1, same, 1, leader=f959fae1-d92d-410e-b4b4-f948a287445b
+leader is f959fae1-d92d-410e-b4b4-f948a287445b

@@ -1,0 +1,12 @@
+Node ID: 15355a42-56f4-49d9-bf68-96001b128a1f
+[Node 15355a42-56f4-49d9-bf68-96001b128a1f] Server listening on 127.0.0.1:5001
+[Thread-1] Connected by ('127.0.0.1', 49364)
+[Node 15355a42-56f4-49d9-bf68-96001b128a1f] Connected to next node 127.0.0.1:5002
+Sent: uuid=15355a42-56f4-49d9-bf68-96001b128a1f, flag=0
+Received: uuid=6d649eb5-e064-4a45-ac69-dfe7135b0b94, flag=0, greater, 0
+Sent: uuid=6d649eb5-e064-4a45-ac69-dfe7135b0b94, flag=0
+Received: uuid=f959fae1-d92d-410e-b4b4-f948a287445b, flag=0, greater, 0
+Sent: uuid=f959fae1-d92d-410e-b4b4-f948a287445b, flag=0
+Received: uuid=f959fae1-d92d-410e-b4b4-f948a287445b, flag=1, greater, 0
+Sent: uuid=f959fae1-d92d-410e-b4b4-f948a287445b, flag=1
+leader is f959fae1-d92d-410e-b4b4-f948a287445b
