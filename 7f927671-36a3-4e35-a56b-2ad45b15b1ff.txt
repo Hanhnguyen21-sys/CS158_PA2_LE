@@ -1,0 +1,5 @@
+Node ID: 7f927671-36a3-4e35-a56b-2ad45b15b1ff
+[Node 7f927671-36a3-4e35-a56b-2ad45b15b1ff] Server listening on 192.168.1.22:5001
+[Node 7f927671-36a3-4e35-a56b-2ad45b15b1ff] Connected to next node 192.168.1.20:5001
+[Thread-1] Connected by ('192.168.1.35', 62192)
+Sent: uuid=7f927671-36a3-4e35-a56b-2ad45b15b1ff, flag=0

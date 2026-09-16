@@ -1,0 +1,4 @@
+Node ID: 9c735c5a-b608-4bec-a1c0-ae81b80b347c
+[Node 9c735c5a-b608-4bec-a1c0-ae81b80b347c] Server listening on 192.168.1.22:5001
+[Node 9c735c5a-b608-4bec-a1c0-ae81b80b347c] Connected to next node 192.168.1.15:5001
+[Thread-1] Connected by ('192.168.1.15', 61160)

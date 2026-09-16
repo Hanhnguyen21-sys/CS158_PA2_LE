@@ -220,6 +220,10 @@ class Node():
         # different clients are served by different threads.
         thread_name = threading.current_thread().name
         self.logger.info(f"[{thread_name}] Connected by {addr}")
+        self.receive_msg()
+       
+        
+        
         
     # ================
     # Client socket to send message to next node
@@ -348,8 +352,6 @@ class Node():
         input(f"[Node {self.uuid}] Press Enter when everyone is ready ...")
         # curr thread connects to next node
         self.connect_next_node()
-        # wait for predecessor connect to server of curr node
-        server_thread.join()
         
         initial_message = Message(
         sender_uuid=self.uuid,
@@ -357,8 +359,8 @@ class Node():
         )
         self.send_msg(initial_message)
 
-    
-        self.receive_msg()
+        server_thread.join()
+        # self.receive_msg()
         
 
 if __name__ == "__main__":

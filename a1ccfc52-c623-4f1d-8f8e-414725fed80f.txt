@@ -1,0 +1,6 @@
+Node ID: a1ccfc52-c623-4f1d-8f8e-414725fed80f
+[Node a1ccfc52-c623-4f1d-8f8e-414725fed80f] Server listening on 192.168.1.22:5001
+[Node a1ccfc52-c623-4f1d-8f8e-414725fed80f] Connected to next node 192.168.1.20:5001
+[Thread-1] Connected by ('192.168.1.35', 61604)
+Sent: uuid=a1ccfc52-c623-4f1d-8f8e-414725fed80f, flag=0
+Node a1ccfc52-c623-4f1d-8f8e-414725fed80f disconnected.

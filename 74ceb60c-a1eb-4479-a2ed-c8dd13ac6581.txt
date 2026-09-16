@@ -1,0 +1,6 @@
+Node ID: 74ceb60c-a1eb-4479-a2ed-c8dd13ac6581
+[Node 74ceb60c-a1eb-4479-a2ed-c8dd13ac6581] Server listening on 192.168.1.22:5001
+[Node 74ceb60c-a1eb-4479-a2ed-c8dd13ac6581] Connected to next node 192.168.1.6:5001
+[Thread-1] Connected by ('192.168.1.35', 49672)
+Sent: uuid=74ceb60c-a1eb-4479-a2ed-c8dd13ac6581, flag=0
+Node 74ceb60c-a1eb-4479-a2ed-c8dd13ac6581 disconnected.
